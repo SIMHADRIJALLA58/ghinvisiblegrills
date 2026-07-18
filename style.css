@@ -248,11 +248,12 @@ body {
 }
 
 .main-navbar.scrolled {
-    background: rgba(255,255,255,0.15) !important; /* more transparent */
+    background: rgba(255,255,255,0.15) !important; 
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(15px);
     box-shadow: 0 5px 20px rgba(0,0,0,0.05);
 }
+
 
 
 
@@ -4108,5 +4109,8 @@ b,
 small{
     font-family:'PT', serif !important;
 }
+
+
+
 
 
