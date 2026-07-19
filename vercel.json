@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "ghinvisiblegrills.vercel.app"
+        }
+      ],
+      "destination": "https://ghinvisiblegrills.in/$1",
+      "permanent": true
+    }
+  ]
+}
